@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
 
 // degisiklik 1
+    // degisiklik 2
     
     
 }
